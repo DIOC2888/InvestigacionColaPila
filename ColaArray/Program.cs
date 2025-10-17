@@ -49,7 +49,7 @@
                 }
 
                 valor = array[frente];
-                array[frente] = ""; // opcional: limpiar
+                array[frente] = ""; // limpiar
                 frente = (frente + 1) % array.Length; // avance circular
                 count--;
                 return true;
