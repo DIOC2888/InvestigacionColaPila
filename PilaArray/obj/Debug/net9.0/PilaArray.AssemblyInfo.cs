@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PilaArray")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+852cd5a9bf1a1012fdc9de2caf0590b764f2fd6e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9aa36f2d90c8c393a90948b22f2423961482f700")]
 [assembly: System.Reflection.AssemblyProductAttribute("PilaArray")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PilaArray")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
