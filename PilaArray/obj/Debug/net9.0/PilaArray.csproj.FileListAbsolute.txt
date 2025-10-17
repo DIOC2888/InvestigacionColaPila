@@ -1,0 +1,15 @@
+C:\Users\denis\OneDrive\Desktop\InvestigacionColaPila\PilaArray\bin\Debug\net9.0\PilaArray.exe
+C:\Users\denis\OneDrive\Desktop\InvestigacionColaPila\PilaArray\bin\Debug\net9.0\PilaArray.deps.json
+C:\Users\denis\OneDrive\Desktop\InvestigacionColaPila\PilaArray\bin\Debug\net9.0\PilaArray.runtimeconfig.json
+C:\Users\denis\OneDrive\Desktop\InvestigacionColaPila\PilaArray\bin\Debug\net9.0\PilaArray.dll
+C:\Users\denis\OneDrive\Desktop\InvestigacionColaPila\PilaArray\bin\Debug\net9.0\PilaArray.pdb
+C:\Users\denis\OneDrive\Desktop\InvestigacionColaPila\PilaArray\obj\Debug\net9.0\PilaArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denis\OneDrive\Desktop\InvestigacionColaPila\PilaArray\obj\Debug\net9.0\PilaArray.AssemblyInfoInputs.cache
+C:\Users\denis\OneDrive\Desktop\InvestigacionColaPila\PilaArray\obj\Debug\net9.0\PilaArray.AssemblyInfo.cs
+C:\Users\denis\OneDrive\Desktop\InvestigacionColaPila\PilaArray\obj\Debug\net9.0\PilaArray.csproj.CoreCompileInputs.cache
+C:\Users\denis\OneDrive\Desktop\InvestigacionColaPila\PilaArray\obj\Debug\net9.0\PilaArray.sourcelink.json
+C:\Users\denis\OneDrive\Desktop\InvestigacionColaPila\PilaArray\obj\Debug\net9.0\PilaArray.dll
+C:\Users\denis\OneDrive\Desktop\InvestigacionColaPila\PilaArray\obj\Debug\net9.0\refint\PilaArray.dll
+C:\Users\denis\OneDrive\Desktop\InvestigacionColaPila\PilaArray\obj\Debug\net9.0\PilaArray.pdb
+C:\Users\denis\OneDrive\Desktop\InvestigacionColaPila\PilaArray\obj\Debug\net9.0\PilaArray.genruntimeconfig.cache
+C:\Users\denis\OneDrive\Desktop\InvestigacionColaPila\PilaArray\obj\Debug\net9.0\ref\PilaArray.dll

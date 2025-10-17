@@ -1,0 +1,15 @@
+C:\Users\denis\OneDrive\Desktop\InvestigacionColaPila\ColaArray\bin\Debug\net9.0\ColaArray.exe
+C:\Users\denis\OneDrive\Desktop\InvestigacionColaPila\ColaArray\bin\Debug\net9.0\ColaArray.deps.json
+C:\Users\denis\OneDrive\Desktop\InvestigacionColaPila\ColaArray\bin\Debug\net9.0\ColaArray.runtimeconfig.json
+C:\Users\denis\OneDrive\Desktop\InvestigacionColaPila\ColaArray\bin\Debug\net9.0\ColaArray.dll
+C:\Users\denis\OneDrive\Desktop\InvestigacionColaPila\ColaArray\bin\Debug\net9.0\ColaArray.pdb
+C:\Users\denis\OneDrive\Desktop\InvestigacionColaPila\ColaArray\obj\Debug\net9.0\ColaArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denis\OneDrive\Desktop\InvestigacionColaPila\ColaArray\obj\Debug\net9.0\ColaArray.AssemblyInfoInputs.cache
+C:\Users\denis\OneDrive\Desktop\InvestigacionColaPila\ColaArray\obj\Debug\net9.0\ColaArray.AssemblyInfo.cs
+C:\Users\denis\OneDrive\Desktop\InvestigacionColaPila\ColaArray\obj\Debug\net9.0\ColaArray.csproj.CoreCompileInputs.cache
+C:\Users\denis\OneDrive\Desktop\InvestigacionColaPila\ColaArray\obj\Debug\net9.0\ColaArray.sourcelink.json
+C:\Users\denis\OneDrive\Desktop\InvestigacionColaPila\ColaArray\obj\Debug\net9.0\ColaArray.dll
+C:\Users\denis\OneDrive\Desktop\InvestigacionColaPila\ColaArray\obj\Debug\net9.0\refint\ColaArray.dll
+C:\Users\denis\OneDrive\Desktop\InvestigacionColaPila\ColaArray\obj\Debug\net9.0\ColaArray.pdb
+C:\Users\denis\OneDrive\Desktop\InvestigacionColaPila\ColaArray\obj\Debug\net9.0\ColaArray.genruntimeconfig.cache
+C:\Users\denis\OneDrive\Desktop\InvestigacionColaPila\ColaArray\obj\Debug\net9.0\ref\ColaArray.dll

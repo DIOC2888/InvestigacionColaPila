@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColaArray", "ColaArray\ColaArray.csproj", "{0036F85E-CBD0-E86A-EC67-21482B0259BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PilaArray", "PilaArray\PilaArray.csproj", "{4E995C22-1496-E262-BA84-58A23ED8704A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0036F85E-CBD0-E86A-EC67-21482B0259BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0036F85E-CBD0-E86A-EC67-21482B0259BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0036F85E-CBD0-E86A-EC67-21482B0259BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0036F85E-CBD0-E86A-EC67-21482B0259BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E995C22-1496-E262-BA84-58A23ED8704A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E995C22-1496-E262-BA84-58A23ED8704A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E995C22-1496-E262-BA84-58A23ED8704A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E995C22-1496-E262-BA84-58A23ED8704A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A207601-8182-4690-B3B5-9241FE325CA7}
+	EndGlobalSection
+EndGlobal
